@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "座位使用",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
